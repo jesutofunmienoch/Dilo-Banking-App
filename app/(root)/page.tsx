@@ -35,7 +35,6 @@ const Home = async () => {
           />
           
           </header>
-    <Dashboard images={images}/>
         </div>
         
       </div>
